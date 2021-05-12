@@ -58,7 +58,7 @@ https://mybinder.readthedocs.io/en/latest/about/status.html.
 3. Build and start this tutorial container.
 
    ```
-   jupyter-repo2docker --editable .
+   jupyter-repo2docker --editable . jupyter lab --NotebookApp.default_url=/lab
    ```
 
    This process will take about a minute, perhaps longer the first time you run it.
@@ -133,5 +133,5 @@ After making changes to the configuration, you will need to stop the
 Jupyter server (Ctrl+C twice, as usual) and start it again. As before:
 
 ```
-jupyter-repo2docker --editable .
+jupyter-repo2docker --editable . jupyter lab --NotebookApp.default_url=/lab
 ```
