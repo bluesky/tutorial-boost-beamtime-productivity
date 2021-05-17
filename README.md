@@ -1,4 +1,4 @@
-# Tutorial: Adaptive
+# Tutorial: Boost Beamline Productivity
 
 ## Use this tutorial
 
