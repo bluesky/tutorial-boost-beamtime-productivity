@@ -137,5 +137,5 @@ jupyter-repo2docker --editable . jupyter lab --NotebookApp.default_url=/lab
 ```
 
 ### Disclaimer
-`Boost_1.ipynb` is not designed for git rendering and the notebook is most 
-informative when utilized in the designated environment.
+The `Boost_1.ipynb` is not designed for git rendering, and the notebook is most 
+informative when utilized in the designated environment.  
