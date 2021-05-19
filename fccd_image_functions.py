@@ -1,4 +1,5 @@
 from collections import namedtuple
+import numpy as np   # for image manipulation
 
 def get_fccd_roi(header, roi_number):
     config = header.descriptors[0]['configuration']['fccd']['data']
