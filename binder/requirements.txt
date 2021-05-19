@@ -1,4 +1,9 @@
+databroker
 ipympl  # enables interactive matplotlib plots with `%matplotlib widget`
-matplotlib
-nbgitpuller
+ipython
 jupyterlab==2.*
+matplotlib
+numpy
+nbgitpuller
+ophyd
+pandas
