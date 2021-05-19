@@ -1,4 +1,5 @@
 databroker
+databroker-pack
 ipympl  # enables interactive matplotlib plots with `%matplotlib widget`
 ipython
 jupyterlab==2.*
